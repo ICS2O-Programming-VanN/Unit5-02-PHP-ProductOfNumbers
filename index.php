@@ -22,7 +22,7 @@
 			echo "<h3>Please Enter the following below:</h3>";
       echo "<p>This program will return you the product of two integers!</p>";
 		?>
-		<!-- Number field and button (Takes Input) -->
+		<!-- Number input field and button (Takes Input) -->
 		<form action="./numbers.php" method="post" target="results">
       Enter an integer: <input type="number" min="0" step="1" name="first-num" placeholder="ex. 1"> <br>
 			<br><br>
